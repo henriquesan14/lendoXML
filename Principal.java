@@ -1,6 +1,5 @@
 import java.io.File;
 import java.io.IOException;
-import java.util.Iterator;
 import java.util.List;
 
 import org.jdom2.Document;
@@ -10,7 +9,7 @@ import org.jdom2.input.SAXBuilder;
 
 public class Principal {
 	public static void main(String[] args) {
-		File f=new File("C:/Users/ricog/Desktop/PIBMunicipiosPE.xml"); //Substitui pelo o diretorio que o arquivo est·
+		File f=new File("C:/Users/ricog/Desktop/PIBMunicipiosPE.xml"); //Substitui pelo o diretorio que o arquivo est√°
 		
 		SAXBuilder sb=new SAXBuilder();
 		
