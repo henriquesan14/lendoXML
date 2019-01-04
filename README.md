@@ -1,5 +1,6 @@
 ---------------------------------------------------------------------------------------
 # MiniProjeto - Tecnologias de Acesso a Dados na Internet
+## Lendo arquivo XML utilizando a linguagem JAVA e biblioteca JDOM.
 ## PIB dos municipios do estado de Pernambuco.
 
 ### Dependências do projeto:
